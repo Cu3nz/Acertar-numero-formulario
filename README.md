@@ -11,6 +11,17 @@ Acertar un numero a traves de post en un formulario.
 
 ![Captura de pantalla 2023-10-08 a las 11 26 40](https://github.com/Cu3nz/Acertar-numero-formulario/assets/145379555/cb95e95b-f044-4b15-a252-842ec92e1200)
 
+<h1>Mensaje cuando tiene que introducir un numero mayor</h1>
+
+![Captura de pantalla 2023-10-08 a las 11 49 45](https://github.com/Cu3nz/Acertar-numero-formulario/assets/145379555/dd954805-a326-4afa-8a6a-75f98fd55770)
+
+<h1>Mensaje cuando tienes que introducir un numero menor </h1>
+
+![Captura de pantalla 2023-10-08 a las 11 50 24](https://github.com/Cu3nz/Acertar-numero-formulario/assets/145379555/0bd51eb5-0ee9-469d-9aca-fee33876a826)
+
+<h1>Cuando aciertas el numero</h1>
+
+![Captura de pantalla 2023-10-08 a las 11 50 55](https://github.com/Cu3nz/Acertar-numero-formulario/assets/145379555/a3b274b8-bfb3-447d-a5d7-5cfcccdd7571)
 
 
 <p>El formulario contiene las siguientes validaciones y funcionalidades </p>
