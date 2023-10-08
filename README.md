@@ -18,7 +18,7 @@ Acertar un numero a traves de post en un formulario.
 <ol>
   <li>Funciones</li>
   <ul>
-    <li>En este caso solo lleva una funcion, la cual es la encargada de mostrar los mensajes de error que se almacenan en las sesiones (linea x )</li>
+    <li>En este caso solo lleva una funcion, la cual es la encargada de mostrar los mensajes de error que se almacenan en las sesiones (linea 126 )</li>
   </ul>
   <li>Creacion de un numero aleatorio</li>
   <ul>
